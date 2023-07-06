@@ -68,7 +68,7 @@
 ![alt text](https://raw.githubusercontent.com/RevoU-FSSE-2/week-4-aljeazsharon/main/assets/31.%20Accelerate%20and%20Protect%20Your%20Site%20with%20CloudFlare.png?raw=true)
 ![alt text](https://raw.githubusercontent.com/RevoU-FSSE-2/week-4-aljeazsharon/main/assets/32.%20Select%20a%20Plan%20For%20Your%20Site.png?raw=true)
 ![alt text](https://raw.githubusercontent.com/RevoU-FSSE-2/week-4-aljeazsharon/main/assets/33.%20Change%20Your%20Name%20Servers.png?raw=true)
-![alt text](![image](https://github.com/RevoU-FSSE-2/week-4-aljeazsharon/assets/25450018/926aa148-f4b4-4c2c-956f-070573b5dea4)
+!(![image](https://github.com/RevoU-FSSE-2/week-4-aljeazsharon/assets/25450018/926aa148-f4b4-4c2c-956f-070573b5dea4)
 
 
 
