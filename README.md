@@ -7,3 +7,5 @@
 ### Day 1 - Register on Netlify
 ![alt text](https://raw.githubusercontent.com/RevoU-FSSE-2/week-4-aljeazsharon/main/assets/1.%20Sign%20Up%20to%20Netlify.png)
 ![alt text](https://raw.githubusercontent.com/RevoU-FSSE-2/week-4-aljeazsharon/main/assets/2.%20Enter%20Your%20Email%20and%20Password.png?raw=true)
+![alt text](https://raw.githubusercontent.com/RevoU-FSSE-2/week-4-aljeazsharon/main/assets/5.%20Set%20Up%20Your%20Netlify%20Account.png?raw=true)
+![alt text](https://raw.githubusercontent.com/RevoU-FSSE-2/week-4-aljeazsharon/main/assets/6.%20You%20%20Can%20Deploy%20Your%20Netlify%20Now%20(or%20you%20can%20skip%20this%20step%20for%20now).png?raw=true)
