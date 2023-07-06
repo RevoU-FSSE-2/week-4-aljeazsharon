@@ -5,5 +5,5 @@
 ## This week's assignment is about deploying a website from Netlify, buying a .site from Niagahoster and connect it to netlify and Domain at Cloudflare.
 ---
 ### Day 1 - Register on Netlify
-1: ![Sign Up](https://raw.githubusercontent.com/RevoU-FSSE-2/week-4-aljeazsharon/main/assets/1.%20Sign%20Up%20to%20Netlify.png)
-2: ![Register with your email](https://raw.githubusercontent.com/RevoU-FSSE-2/week-4-aljeazsharon/main/assets/2.%20Enter%20Your%20Email%20and%20Password.png?raw=true)
+![alt text](https://raw.githubusercontent.com/RevoU-FSSE-2/week-4-aljeazsharon/main/assets/1.%20Sign%20Up%20to%20Netlify.png)
+![alt text](https://raw.githubusercontent.com/RevoU-FSSE-2/week-4-aljeazsharon/main/assets/2.%20Enter%20Your%20Email%20and%20Password.png?raw=true)
