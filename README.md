@@ -2,3 +2,6 @@
 
 # **Assignment Week-04 - How To Deploy Website**
 ---
+## This week assignment is about Deploy website from netlify, buying a .site from Niagahoster connect it to netlify and Domain at Cloudflare.
+---
+
