@@ -5,4 +5,4 @@
 ## This week assignment is about Deploy website from netlify, buying a .site from Niagahoster connect it to netlify and Domain at Cloudflare.
 ---
  ### Day 1 - Register on Netlify
- ![1. Sign Up to Netlify](.assets/1.Sign Up to Netlify.png)
+ ![1. Sign Up to Netlify](1.Sign Up to Netlify.png)
