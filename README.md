@@ -2,8 +2,8 @@
 
 # **Assignment Week-04 - How To Deploy Website**
 ---
-## This week assignment is about Deploy website from netlify, buying a .site from Niagahoster connect it to netlify and Domain at Cloudflare.
+## This week's assignment is about deploying a website from Netlify, buying a .site from Niagahoster and connect it to netlify and Domain at Cloudflare.
 ---
- ### Day 1 - Register on Netlify
-Step 1: ![alt text](https://raw.githubusercontent.com/RevoU-FSSE-2/week-4-aljeazsharon/main/assets/1.%20Sign%20Up%20to%20Netlify.png)
-Step 2: Enter Your email and password ![alt text](https://raw.githubusercontent.com/RevoU-FSSE-2/week-4-aljeazsharon/main/assets/2.%20Enter%20Your%20Email%20and%20Password.png?raw=true)
+### Day 1 - Register on Netlify
+1: ![alt text](https://raw.githubusercontent.com/RevoU-FSSE-2/week-4-aljeazsharon/main/assets/1.%20Sign%20Up%20to%20Netlify.png)
+2: Enter Your email and password ![alt text](https://raw.githubusercontent.com/RevoU-FSSE-2/week-4-aljeazsharon/main/assets/2.%20Enter%20Your%20Email%20and%20Password.png?raw=true)
