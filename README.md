@@ -2,6 +2,12 @@
 
 # **Assignment Week-04 - How To Deploy Website**
 ---
+
+## This week assignment is about Deploy website from netlify, buying a .site from Niagahoster connect it to netlify and Domain at Cloudflare.
+---
+ ### Day 1 - Register on Netlify
+ 
+=======
 ## This week's assignment is about deploying a website from Netlify, buying a .site from Niagahoster and connect it to netlify and Domain at Cloudflare.
 ---
 ### Day 1 - Register on Netlify
@@ -15,3 +21,4 @@
 ---
 ### Day 2 - Connect The Netlify with Github Project and Deploy Your Project to Netlify and test deployment with create a pull request to main branch and merge it.
 ![alt text]
+
