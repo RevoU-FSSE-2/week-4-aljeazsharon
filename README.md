@@ -68,7 +68,14 @@
 ![alt text](https://raw.githubusercontent.com/RevoU-FSSE-2/week-4-aljeazsharon/main/assets/31.%20Accelerate%20and%20Protect%20Your%20Site%20with%20CloudFlare.png?raw=true)
 ![alt text](https://raw.githubusercontent.com/RevoU-FSSE-2/week-4-aljeazsharon/main/assets/32.%20Select%20a%20Plan%20For%20Your%20Site.png?raw=true)
 ![alt text](https://raw.githubusercontent.com/RevoU-FSSE-2/week-4-aljeazsharon/main/assets/33.%20Change%20Your%20Name%20Servers.png?raw=true)
-!(![image](https://github.com/RevoU-FSSE-2/week-4-aljeazsharon/assets/25450018/926aa148-f4b4-4c2c-956f-070573b5dea4)
+(![image](https://github.com/RevoU-FSSE-2/week-4-aljeazsharon/assets/25450018/926aa148-f4b4-4c2c-956f-070573b5dea4)
+![image](https://github.com/RevoU-FSSE-2/week-4-aljeazsharon/assets/25450018/7ed89156-8036-491c-89b5-a657585ff6e2)
+
+11. Connect to Netlify and Domain with CloudFlare
+
+![image](https://github.com/RevoU-FSSE-2/week-4-aljeazsharon/assets/25450018/644760aa-401c-4b08-9d37-aa16d2827b74)
+---
+
 
 
 
