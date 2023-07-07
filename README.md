@@ -5,6 +5,11 @@
 
 ## This week assignment is about Deploy website from netlify, buying a .site from Niagahoster connect it to netlify and Domain at Cloudflare.
 ---
+To access the Website assignment: 
+1. https://bucolic-scone-b2c405.netlify.app/
+2. legereclava.site
+3. www.legereclava.site
+---
  ### Day 1 - Register on Netlify
  
 =======
@@ -75,7 +80,8 @@
 
 ![image](https://github.com/RevoU-FSSE-2/week-4-aljeazsharon/assets/25450018/644760aa-401c-4b08-9d37-aa16d2827b74)
 ---
-
+### My Contact Information
+[Sharon ALjeazsa L. Silalahi](aljeazsharon@gmail.com)
 
 
 
