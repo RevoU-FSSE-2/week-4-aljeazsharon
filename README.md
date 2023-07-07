@@ -81,7 +81,7 @@ To access the Website assignment:
 ![image](https://github.com/RevoU-FSSE-2/week-4-aljeazsharon/assets/25450018/644760aa-401c-4b08-9d37-aa16d2827b74)
 ---
 ### My Contact Information
-[Sharon ALjeazsa L. Silalahi](aljeazsharon@gmail.com)
+email: (aljeazsharon@gmail.com)
 
 
 
