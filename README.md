@@ -5,6 +5,8 @@
 
 ## This week assignment is about Deploy website from netlify, buying a .site from Niagahoster connect it to netlify and Domain at Cloudflare.
 ---
+This Website has index page that contains video, rules, book collection and Join Us.
+
 To access the Website assignment: 
 1. https://bucolic-scone-b2c405.netlify.app/
 2. legereclava.site
