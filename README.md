@@ -21,8 +21,7 @@ To access the Website assignment:
 1. Sign Up With Your email to Netlify (Don't forget to check your email and verify)
 2. Set Up Your Netlify Account
 3. Deploy Your Website
-
-
+   
 ![alt text](https://raw.githubusercontent.com/RevoU-FSSE-2/week-4-aljeazsharon/main/assets/1.%20Sign%20Up%20to%20Netlify.png?raw=true)
 ![alt text](https://raw.githubusercontent.com/RevoU-FSSE-2/week-4-aljeazsharon/main/assets/2.%20Enter%20Your%20Email%20and%20Password.png?raw=true)
 ![alt text](https://raw.githubusercontent.com/RevoU-FSSE-2/week-4-aljeazsharon/main/assets/5.%20Set%20Up%20Your%20Netlify%20Account.png?raw=true)
